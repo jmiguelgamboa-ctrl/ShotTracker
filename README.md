@@ -27,3 +27,8 @@ A simple one-handed golf shot tracker for GitHub Pages and iPhone Home Screen in
 - Shot distance and miss direction are not tracked.
 - Bag customization is planned later.
 - Shot editing uses a basic prompt in this model.
+
+
+## v0.1.1 Fix
+- Corrected a JavaScript syntax error that prevented all buttons from responding.
+- Updated the service-worker cache so devices download the corrected app.
